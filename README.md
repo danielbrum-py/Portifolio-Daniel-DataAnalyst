@@ -57,7 +57,7 @@ Busco utilizar a tecnologia de forma prática, entendendo primeiro o problema e 
 
 ## 🔗 Links
 
-🌐 **Portfólio:** (https://alunos.altainteligencia.com.br/projetos/daniel-brum-d46e32ef/portifolio-melhorado/)
+🌐 **Portfólio:** https://alunos.altainteligencia.com.br/projetos/daniel-brum-d46e32ef/portifolio-melhorado/
 
 💼 **LinkedIn:** https://www.linkedin.com/in/danielbrum-dev/
 
