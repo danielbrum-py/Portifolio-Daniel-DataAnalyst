@@ -59,9 +59,9 @@ Busco utilizar a tecnologia de forma prática, entendendo primeiro o problema e 
 
 🌐 **Portfólio:** [LINK DO SITE]
 
-💼 **LinkedIn:** [(https://www.linkedin.com/in/danielbrum-dev/)]
+💼 **LinkedIn:** https://www.linkedin.com/in/danielbrum-dev/
 
-📧 **Email:** [danielbrum.py@gmail.com]
+📧 **Email:** danielbrum.py@gmail.com
 
 ## 📌 Status
 
